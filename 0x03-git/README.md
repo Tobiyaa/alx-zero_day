@@ -1,1 +1,1 @@
-my first readme
+This is another exercise about working with git
